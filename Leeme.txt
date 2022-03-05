@@ -87,5 +87,8 @@ Es decir el nuevo archivo continua estando en seguimiento Se comporta como si se
 independientemente de las acciones intermedias que haga la aplicacion usada para 
 cambiar de nombre
 
+SI SE HACE DESDE FUERA DE GIT, se elimina el inicial y se marca como UNTRACKED EL NNUEVO creado
+Es un eliminar y crear
+
 
  

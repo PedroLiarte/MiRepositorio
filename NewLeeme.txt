@@ -81,4 +81,16 @@ cumple un patón y deben ser ignorados por GIT
     
 GIT El comando rm elimina ficheros de seguimiento y del disco duro 
     Se puede evitar eliminar del disco duro con un parametro
-  git 
+  
+GIT De alguna manera controla que un fichero ha sido renombrado y lo marca así
+Es decir el nuevo archivo continua estando en seguimiento Se comporta como si se renombrara
+independientemente de las acciones intermedias que haga la aplicacion usada para 
+cambiar de nombre
+
+SI SE HACE DESDE FUERA DE GIT, se elimina el inicial y se marca como UNTRACKED EL NUEVO creado
+Es un eliminar y crear y se queda en el estado UNTRACKED
+
+
+
+
+ 
