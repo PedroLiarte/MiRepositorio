@@ -76,6 +76,7 @@ Ademas si queremos que todos los ficheros MODIFIED pasen a COMIITED aunque
 no esten en STAGED se puede usar la opcion -a
 
 
-
+GIT. Hay un archivo .gitignore donde se guarda informacion de los archivos cuyo nombre 
+cumple un patón y deben ser ignorados por GIT
     
    
