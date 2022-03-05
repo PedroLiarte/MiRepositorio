@@ -1,4 +1,4 @@
 Este fichero me lo debería de bajar desde el repositorio remoto
-Lo modifico en local y me gustaria subirlo
+Lo modifico en local y me gustaria subirlo o no
 
 
