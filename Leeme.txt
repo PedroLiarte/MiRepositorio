@@ -94,4 +94,11 @@ Es un eliminar y crear
 
 GIT Existe la posibilidad de sacar un fichero de STAGED a MODIFIED
 
+En GIT hay: 
+  - Un reposistorio local donde tienes ficheros en diferentes estados
+  - Un repositorio remoto
+  
+ EN teroria fetch me permite obtener informacion de un respositorio remoto pero no me funciona
+            
+
  
